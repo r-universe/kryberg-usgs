@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "seawaveQ"]
+	path = seawaveQ
+	url = https://github.com/cran/seawaveQ
+	shallow = true
+	registered = true
 [submodule "waterData"]
 	path = waterData
 	url = https://github.com/kryberg-usgs/waterdata
