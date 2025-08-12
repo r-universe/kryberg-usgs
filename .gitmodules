@@ -5,6 +5,3 @@
 [submodule "seawaveQ"]
 	path = seawaveQ
 	url = https://github.com/cran/seawaveQ
-[submodule "waterData"]
-	path = waterData
-	url = https://github.com/kryberg-usgs/waterdata
